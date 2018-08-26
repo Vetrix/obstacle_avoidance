@@ -3,7 +3,7 @@
 '''
 SELEKSI CALON KRU PROGRAMMING DAGOZILLA 2018
 Take Home Test
-File name: sudoku.py
+File name: improved_sudoku.py
 Problem 2: Code Comprehension
 '''
 
