@@ -22,7 +22,7 @@ Berikut adalah takehome test Seleksi Dagozilla
     
    1. Saat dijalankan, program akan meminta 3 command line arguments yang berisi program yang akan dijalankan (sudoku.py), file eksternal sudoku yang akan diselesaikan (probX.txt), dan file eksternal untuk menyimpan hasil penyelesaian sudoku (solnX.txt), apabila tidak sesuai, program akan mengeluarkan pesan error
 ```
-Python sudoku.py probX.txt solnX.txt
+./Python sudoku.py probX.txt solnX.txt
 ```
    2. Program akan membuka file eksternal, dan membacanya, untuk disimpan dalam tabel dengan nama variabel board, dan mengganti setiap char '-' menjadi int 0, dan menuliskan board ke layar
    3. Program lalu mencari bagian sudoku yang belum terisi, dan mengisikannya dengan angka 1-9, dengan syarat tidak boleh ada angka yang sama, dalam satu baris, kolom, maupun kotak 3x3
