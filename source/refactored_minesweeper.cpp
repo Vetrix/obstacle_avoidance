@@ -1,7 +1,7 @@
 /*
   SELEKSI CALON KRU PROGRAMMING DAGOZILLA 2018
   Take Home Test
-  File name: minesweeper.cpp
+  File name: refactored_minesweeper.cpp
   Problem 2.2: MineSweeper
 */
 #include <iostream>
