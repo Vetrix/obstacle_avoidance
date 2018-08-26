@@ -9,7 +9,6 @@ Problem 2: Code Comprehension
 
 import sys
 import numpy as np
-import cProfile
 
 def read_from_file(filename, board):
     with open(filename) as f:
