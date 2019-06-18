@@ -1,7 +1,4 @@
-# seleksi_dagozilla_13517138_dzannun
-Berikut adalah takehome test Seleksi Dagozilla
-
-## Problem 1, Obstacle avoidance
+# Problem 1, Obstacle avoidance
 
    Hal yang dapat dilakukan pertama sebelum menentukan gerakan, adalah menentukan lokasi robot dalam lapangan. Lokalisasi robot dapat membantu bagaimana robot dapat bergerak, dan menentukan strategi untuk melewati rintangan. Lokasi yang perlu ditentukan adalah lokasi robot itu sendiri, lokasi bola, lokasi garis lapangan (termasuk gawang dan pojok lapangan), dan rintangan. Dengan menggunakan menggunakan hubungan jarak dari ujung lapangan dan sudutnya terhadap pojok lapangan, dapat ditentukan posisi yang diinginkan (dengan asumsi seluruh lapangan terlihat dalam vision). Contoh cara yang dapat digunakan adalah:(
     
